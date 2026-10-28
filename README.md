@@ -4,9 +4,12 @@
 [![Python](https://img.shields.io/badge/python-3.11%20%7C%203.13%20%7C%203.14-06b6d4.svg)](https://python.org)
 [![React](https://img.shields.io/badge/frontend-React%2018%20%2B%20Vite-6366f1.svg)](https://reactjs.org)
 [![Docker](https://img.shields.io/badge/docker-ready-38bdf8.svg)](Dockerfile)
+[![GitHub](https://img.shields.io/badge/github-Sourabh--Bhakar5228/GB--Wholesale--Power--Desk--181717?logo=github)](https://github.com/Sourabh-Bhakar5228/GB-Wholesale-Power-Desk-)
 [![License](https://img.shields.io/badge/license-MIT-slate.svg)](LICENSE)
 
 An institutional-grade decision support and forecast risk analytics platform developed for **UK electricity utilities** procuring power in the **Day-Ahead Wholesale Electricity Market** (EPEX SPOT UK & Nord Pool GB).
+
+> **Repository URL**: [https://github.com/Sourabh-Bhakar5228/GB-Wholesale-Power-Desk-](https://github.com/Sourabh-Bhakar5228/GB-Wholesale-Power-Desk-)
 
 Built using national actuals and forecast streams from **Elexon BMRS** (`FUELHH` wind actuals and `WINDFOR` wind forecasts) for purchase decisions made throughout **January 2026**.
 
